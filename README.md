@@ -20,8 +20,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user camp experiences:
 
 
-
-
+https://github.com/J4Ysantiago/CampgroundExplore/blob/main/Kapture%202025-11-27%20at%2014.56.36.gif
 
 
 GIF created with ...  
