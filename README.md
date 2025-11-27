@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user camp experiences:
 
 
-https://github.com/J4Ysantiago/CampgroundExplore/blob/main/Kapture%202025-11-27%20at%2014.56.36.gif
+![Kapture 2025-11-27 at 14 56 36](https://github.com/user-attachments/assets/ee8dde23-af66-42b8-aa05-bb1730a010f9)
+
 
 
 GIF created with ...  
